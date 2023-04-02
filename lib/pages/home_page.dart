@@ -80,6 +80,9 @@ class _HomePageState extends State<HomePage> {
                 child: TabBarView(children: const [
               DonutPage(),
               BurgerPage(),
+              BurgerPage(),
+              BurgerPage(),
+              BurgerPage(),
             ]))
           ],
         ),
